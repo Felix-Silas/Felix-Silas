@@ -1,9 +1,9 @@
 ### Hi I'm Geuntae You 👋
-I like to find the optimal solution.
-I' interested in implementing artificial intelligence.
+📫 I like to find the optimal solution.
 [![Felix-Silas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felix-Silas&theme=chartreuse-dark&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 🔭 My major is Industrial System Engineering.
+
 
 <!--
 **Felix-Silas/Felix-Silas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
