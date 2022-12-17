@@ -3,7 +3,7 @@
 
 [![Felix-Silas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felix-Silas&theme=chartreuse-dark&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-🔭 My major is Industrial System Engineering. 
+🔭 My major is Industrial System Engineering.
 
 
 <!--
