@@ -1,7 +1,7 @@
 ### Hi I'm Geuntae You 👋
+- 🔭 My major is Industrial System Engineering. 
 - 💬 I study Machine Learning to be data scientist.
 - 📫 I like to find the optimal solution.
-- 🔭 My major is Industrial System Engineering. 
 
 
 
