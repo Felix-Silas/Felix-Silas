@@ -1,7 +1,7 @@
 ### Hi I'm Geuntae You 👋
 - 🔭 My major is Industrial System Engineering and Data Science Interdisciplinary Major.
 - 💬 I study Machine Learning to be data scientist.
-- ⚒️ I am interested in Multivariate time series data anomaly detection.
+- ⚒️ I am interested in time series data anomaly detection, eXplainable Artificial Intelligence.
 - 📫 I like to find the optimal solution.
 
 
